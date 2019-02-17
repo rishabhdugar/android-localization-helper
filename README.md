@@ -5,9 +5,10 @@ A python script that helps you create strings.xml for all languages in different
 
 
 
-#credits
+# credits
 
 Combined effort from below repositories
+
 https://github.com/Ra-Na/GTranslate-strings-xml
 https://github.com/Swisyn/android-strings.xml-translator
 
