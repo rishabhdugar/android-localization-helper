@@ -3,7 +3,16 @@ A python script that helps you create strings.xml for all languages in different
 
 # usage
 
+Syntax
 
+```
+python3.7 translator.py <source_lang_code> <string_file_name>
+```
+
+Eg,
+```
+python3.7 translator.py en strings.xml
+```
 
 # credits
 
