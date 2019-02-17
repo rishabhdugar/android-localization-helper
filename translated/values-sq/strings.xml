@@ -1,0 +1,12 @@
+<resources>
+    <string name="hellow">Përshëndetni botën mizore!</string>
+    <string name="mailtodeveloper">Mail për zhvilluesin</string>
+    <string name="userisgoat">Prekni në kutitë e zgjedhjes për të zgjedhur artikujt.</string>
+    <string name="btn_search">kërkim</string> 
+    <string name="radio_design_ideas">Kërko në Ide të Dizajnit</string> 
+    <string-array name="search_title"> 
+		<item>Çfarë mund të kërkoj?</item> 
+		<item>A duhet të kem një llogari për të kërkuar dhe parë informacionin?</item> 
+		<item>Si mund të kërkoj për produktet e paraqitura në një dizajn?</item> 
+	</string-array>
+</resources>

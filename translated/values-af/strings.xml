@@ -1,0 +1,12 @@
+<resources>
+    <string name="hellow">Hallo wrede wêreld!</string>
+    <string name="mailtodeveloper">Pos na ontwikkelaar</string>
+    <string name="userisgoat">Tik op blokkies om items te kies.</string>
+    <string name="btn_search">Soek</string> 
+    <string name="radio_design_ideas">Soek in Ontwerp Idees</string> 
+    <string-array name="search_title"> 
+		<item>Waarvoor kan ek soek?</item> 
+		<item>Moet ek 'n rekening hê om inligting te soek en te sien?</item> 
+		<item>Hoe soek ek produkte wat in 'n ontwerp vertoon word?</item> 
+	</string-array>
+</resources>
