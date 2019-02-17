@@ -20,7 +20,7 @@ Paste them in your res/ folder of Android Project.
 
 # credits
 
-Combined effort from below repositories
+Combined effort from below repositories + Some Add Ons 
 
 https://github.com/Ra-Na/GTranslate-strings-xml
 
