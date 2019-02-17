@@ -14,6 +14,10 @@ Eg,
 python3.7 translator.py en strings.xml
 ```
 
+Output will be created in transalted/ folder with various langugaes folders.
+
+Paste them in your res/ folder of Android Project.
+
 # credits
 
 Combined effort from below repositories
