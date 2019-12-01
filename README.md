@@ -27,4 +27,12 @@ https://github.com/Ra-Na/GTranslate-strings-xml
 https://github.com/Swisyn/android-strings.xml-translator
 
 
+# other useful commands
+
+Extract only strings from strings.xml
+cut -d ">" -f2 strings.xml | cut -d "<" -f1
+
+Extract non translatable strings from strings.xml
+cat strings.xml|grep -v "translatable" | cut -d ">" -f2  | cut -d "<" -f1
+
 
